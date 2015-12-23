@@ -1,0 +1,18 @@
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\bin\Debug\home work 2.exe.config
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\bin\Debug\home work 2.exe
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\bin\Debug\home work 2.pdb
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\obj\Debug\home work 2.csprojResolveAssemblyReference.cache
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\obj\Debug\home_work_2.Properties.Resources.resources
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\obj\Debug\home work 2.csproj.GenerateResource.Cache
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\obj\Debug\home work 2.exe
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\obj\Debug\home work 2.pdb
+F:\NAMHORNG FILES\C# Home works\home work 2\home work 2\obj\Debug\home_work_2.Form1.resources
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\bin\Debug\home work 2.exe.config
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\obj\Debug\home work 2.exe
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\obj\Debug\home work 2.pdb
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\bin\Debug\home work 2.exe
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\bin\Debug\home work 2.pdb
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\obj\Debug\home work 2.csprojResolveAssemblyReference.cache
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\obj\Debug\home_work_2.Form1.resources
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\obj\Debug\home_work_2.Properties.Resources.resources
+F:\NAMHORNG FILES\C# for beginners\Calculator\home work 2\obj\Debug\home work 2.csproj.GenerateResource.Cache
